@@ -1,0 +1,35 @@
+Port     	Name     		Status     		Vlan     Duplex     Speed     	Type
+Eth1/1		p2p ALBTCBR003	connected      	200		 auto     	auto       	10/100BaseTX
+Eth1/2		p2p ALBTCBR004	connected      	200		 auto     	auto       	10/100BaseTX
+Eth1/3		p2p ALBTCBR005	connected      	200		 auto     	auto       	10/100BaseTX
+Eth1/4		p2p ALBTCBR006	connected      	200		 auto     	auto       	10/100BaseTX
+Fa2/1		szhm58006		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/2		szhm58007		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/3		szhm58008		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/4		szhm58009		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/5		szhm58010		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/6		szhm58011		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/7		szhm58012		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/8		szhm58013		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/9		szhm58014		connected      	250		 auto     	auto       	10/100BaseTX
+Fa2/10		szhm58015		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/1		szhm58007		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/2		szhm58008		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/3		szhm58009		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/4		szhm58010		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/5		szhm58011		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/6		szhm58012		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/7		szhm58013		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/8		szhm58014		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/9		szhm58015		connected      	250		 auto     	auto       	10/100BaseTX
+Fa3/10		szhm58016		connected      	250		 auto     	auto       	10/100BaseTX
+Fa4/1		szhm58009		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/2		szhm58010		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/3		szhm58011		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/4		szhm58012		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/5		szhm58013		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/6		szhm58014		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/7		szhm58015		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/8		szhm58016		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/9		szhm58017		connected      	250		 a-full     a-100      	10/100BaseTX
+Fa4/10		szhm58018		connected      	250		 a-full     a-100      	10/100BaseTX
